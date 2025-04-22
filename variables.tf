@@ -9,5 +9,5 @@ variable "instance_type" {
 }
 
 variable "key_name" {
-  default = "webapp-key"  # This MUST match the key name in AWS us-east-2
+  default = "webapp-key" # This MUST match the key name in AWS us-east-2
 }
