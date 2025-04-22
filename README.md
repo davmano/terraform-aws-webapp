@@ -4,6 +4,9 @@ This project builds a fully functional web app infrastructure on AWS using Terra
 
 ---
 #
+## 🧭 Architecture Diagram
+
+![Architecture](./docs/infra.png)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Terraform](https://img.shields.io/badge/IaC-Terraform-623CE4?logo=terraform&logoColor=white)](https://www.terraform.io/)
