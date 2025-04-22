@@ -3,6 +3,11 @@
 This project builds a fully functional web app infrastructure on AWS using Terraform — completely modularized and ready for production or portfolio use.
 
 ---
+#
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Terraform](https://img.shields.io/badge/IaC-Terraform-623CE4?logo=terraform&logoColor=white)](https://www.terraform.io/)
+[![AWS](https://img.shields.io/badge/Cloud-AWS-FF9900?logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
 
 ## ✅ Features
 
