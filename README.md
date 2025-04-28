@@ -34,7 +34,7 @@ This project builds a fully functional web app infrastructure on AWS using Terra
 
 # SSH Access
 ``` bash 
-ssh -i webapp-key.pem ubuntu@3.148.175.108
+ssh -i webapp-key.pem ubuntu@3.144.22.227
 ```
 # Upload Test 
 ``` bash
