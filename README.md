@@ -25,27 +25,28 @@ This project builds a fully functional web app infrastructure on AWS using Terra
 
 ---
 
-Run Terraform 
--
-- terraform init
-- terraform apply 
----
+# Run Terraform 
+``` bash 
+ terraform init
+ terraform apply
+```  
 
-SSH Access
--  
+
+# SSH Access
+``` bash 
 ssh -i webapp-key.pem ubuntu@3.148.175.108
-
-Upload Test 
--
+```
+# Upload Test 
+``` bash
 - echo "Test from EC2" > test.txt
 aws s3 cp test.txt s3:///webapp-bucket-76a3b10c/
+```
 
----
 
-Clean Up
--
+# Clean Up
+``` bash 
 terraform destroy 
-
+```
 ## 📁 Project Structure
 
 ```bash
@@ -59,4 +60,4 @@ terraform-aws-webapp/
     ├── ec2/
     ├── s3/
     └── iam/
-
+```
