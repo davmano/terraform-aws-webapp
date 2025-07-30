@@ -2,6 +2,8 @@
 
 This project builds a fully functional web app infrastructure on AWS using Terraform — completely modularized and ready for production or portfolio use.
 
+> **Note**: This is a demo change for testing PR workflow.
+
 ---
 #
 ## 🧭 Architecture Diagram
