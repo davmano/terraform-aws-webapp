@@ -4,6 +4,7 @@ This project builds a fully functional web app infrastructure on AWS using Terra
 
 > **Note**: This is a demo change for testing PR workflow.
 
+
 ---
 #
 ## 🧭 Architecture Diagram
